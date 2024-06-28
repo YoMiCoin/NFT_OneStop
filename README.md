@@ -121,6 +121,6 @@ There are some things to be done in the project:
 
 ## License
 
-This project is under the **MIT license**. See the [LICENSE](https://github.com/AlexiaYuriko24/Coin-Marketplace/blob/main/LICENCE) for more information.
+This project is under the **MIT license**. See the [LICENSE](https://github.com/YoMiCoin/NFT_OneStop/blob/main/LICENCE) for more information.
 
 
