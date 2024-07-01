@@ -95,10 +95,11 @@ To run the application you'll need:
 * [Git](https://git-scm.com)
 * [Node](https://nodejs.org/)
 * [VScode](https://code.visualstudio.com/download)
+* [MetaMask Wallet](https://chromewebstore.google.com/detail/metamask/nkbihfbeogaeaoehlefnkodbefgpgknn?hl=en)
 * Clone the repository:
   * ```$ git clone https://github.com/AlexiaYuriko24/Coin-Marketplace.git ```
 
-Now go to project folder and run:
+Now go to the project folder and run:
 ```bash
 $ cd NFT_Marketplace
 
